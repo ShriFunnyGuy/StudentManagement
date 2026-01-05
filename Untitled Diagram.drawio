@@ -71,7 +71,10 @@
           <mxGeometry height="70" width="640" x="280" y="510" as="geometry" />
         </mxCell>
         <mxCell id="5dj_Bp1Xb9CEEuouRe6_-44" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" value="" vertex="1">
-          <mxGeometry height="68.75" width="630" x="280" y="511.25" as="geometry" />
+          <mxGeometry height="68.75" width="570" x="320" y="511.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5dj_Bp1Xb9CEEuouRe6_-45" parent="1" style="text;whiteSpace=wrap;html=1;align=center;shadow=0;strokeColor=#33001A;" value="&lt;font color=&quot;#33001a&quot; face=&quot;Calibri&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Data Quality&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="510" y="527.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
