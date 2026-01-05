@@ -97,6 +97,11 @@
             <mxPoint x="129" y="-1155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5dj_Bp1Xb9CEEuouRe6_-68" connectable="0" parent="5dj_Bp1Xb9CEEuouRe6_-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CDC" vertex="1">
+          <mxGeometry relative="1" x="-0.246" y="-5" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5dj_Bp1Xb9CEEuouRe6_-58" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="695" y="-1171" as="sourcePoint" />
@@ -105,6 +110,24 @@
         </mxCell>
         <mxCell id="5dj_Bp1Xb9CEEuouRe6_-59" parent="1" style="text;whiteSpace=wrap;html=1;align=center;shadow=0;strokeColor=none;" value="&lt;font color=&quot;#33001a&quot; face=&quot;Calibri&quot; style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Meadallion Architecture&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="655" x="146" y="-1441" as="geometry" />
+        </mxCell>
+        <mxCell id="5dj_Bp1Xb9CEEuouRe6_-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="551" y="-1051" as="sourcePoint" />
+            <mxPoint x="601" y="-1101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dj_Bp1Xb9CEEuouRe6_-66" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="5dj_Bp1Xb9CEEuouRe6_-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="800" y="-1394" as="sourcePoint" />
+            <mxPoint x="199" y="-1382" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dj_Bp1Xb9CEEuouRe6_-67" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="800" y="-1394" as="sourcePoint" />
+            <mxPoint x="800" y="-1341" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
