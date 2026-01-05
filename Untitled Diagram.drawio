@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Page-1" id="mW5ng8SLTczv4E_dyJ0g">
-    <mxGraphModel dx="1826" dy="2377" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1442" dy="2162" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,6 +122,9 @@
             <mxPoint x="800" y="-1394" as="sourcePoint" />
             <mxPoint x="800" y="-1341" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5dj_Bp1Xb9CEEuouRe6_-70" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" value="" vertex="1">
+          <mxGeometry height="64" width="64" x="-77" y="-1101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
